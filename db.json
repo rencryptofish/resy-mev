@@ -1,0 +1,14 @@
+{
+    "venues": [
+      {
+        "name": "Carbone",
+        "id": 6194,
+        "notified": true,
+        "minTime": "18:00",
+        "preferredTime": "19:30",
+        "maxTime": "20:30",
+        "shouldBook": true,
+        "partySize": 2
+      }
+    ]
+  }
